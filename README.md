@@ -1,4 +1,6 @@
-# This Python program solves a 9x9 Sudoku puzzle using the backtracking algorithm. Given an incomplete Sudoku grid, the program attempts to fill in the empty cells with digits from 1 to 9 such that each row, column, and 3x3 sub-grid contains all digits from 1 to 9 without repetition.
+# Sudoku Solver
+
+This Python program solves a 9x9 Sudoku puzzle using the backtracking algorithm. Given an incomplete Sudoku grid, the program attempts to fill in the empty cells with digits from 1 to 9 such that each row, column, and 3x3 sub-grid contains all digits from 1 to 9 without repetition.
 
 
 ## Features
